@@ -9,7 +9,7 @@ djangorestframework==3.9.2
 httpie==1.0.2
 idna==2.8
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 Pygments==2.3.1
 pytz==2018.9
